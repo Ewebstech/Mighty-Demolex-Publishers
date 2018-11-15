@@ -12,8 +12,8 @@
             <div id="footer_logo"><h1>Mighty <i style='margin-top: 10px;'>Demolex Publishers</i></h1></div>
             
             <ul class="contact_address">
-                <li><i class="icon-map-marker icon-large"></i> Ilorin, Kwara State <br />&nbsp;&nbsp;&nbsp;Nigeria.</li>
-                
+                <li><i class="icon-map-marker icon-large"></i> Mighty Demolex Publishing House, <br> 22, Jatto Phase II, Beside C.A.C <br> Oke-Isegun No. 3 Off Kilanko <br> Kaure Area, Ilorin, Kwara State.</li>
+     
                 <li><img src="images/footer-wmap.png" alt="" /></li>
             </ul>
             

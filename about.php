@@ -5,7 +5,7 @@
 <!--[if (gt IE 9)|!(IE)]><!--> <html lang="en-gb" class="no-js"> <!--<![endif]-->
 
 <head>
-	<title>About | Mighty Demolex Publishe</title>
+	<title>About | Mighty Demolex Publishers</title>
 	
 	<meta charset="utf-8">
 	<meta name="keywords" content="" />
@@ -118,19 +118,37 @@
 <div class="container">
 
 	<div class="content_fullwidth">
-
-	<div class="two_third">
+    <div class="two_third">
+	<div class="content_fullwidth">
     
-    	<img src="images/site-img26.jpg" alt="" class="image_left1" />
+    	<img src="images/site-img26.jpg" alt="" class="image_left1" style="border-radius: 10px; max-height: 120px;"/>
         
         <h2>Who <strong>We Are</strong></h2>
-        <p>Mighty Demolex Publishing Ltd. is a leading producer of educational materials for primary and secondary schools in Nigeria.</p>
-        <br />
-        <p>The company was founded in June 2008 by Mr. Bamidele Omosebi Alex; a graduate of Health Education from Adekunle Ajasin University, Akungba, Akoko, Nigeria. he has been in the publishing industry since 2000.</p>
+        <p>Mighty Demolex Publishers is a growing publishing firm in Nigeria, with over 10 years of excellent educational products and service delivery. Our textbooks are colourful, child-centred and curriculum-updated for the Universal Basic Education.
+        </p>
         
     </div><!-- end section -->
+
+    <div class="content_fullwidth" style="border-top: 0.3px solid rgba(0,0,0,0.5); margin-top: 30px; padding-top: 20px;">
     
+        <img src="img/OurMission2.png" alt="" class="image_left1" style="border-radius: 10px; max-height: 120px;"/>
+        
+        <h2>Our <strong>Vision</strong></h2>
+        <p>To be a major player in the education sector a top-notch centre of publishing and delivery of high quality educational products for learners across the world.
+        </p>
     
+    </div><!-- end section -->
+
+    <div class="content_fullwidth" style="border-top: 0.3px solid rgba(0,0,0,0.5); margin-top: 30px; padding-top: 20px;">
+    
+    <img src="img/motivation-and-vision-globe.jpg" alt="" class="image_left1" style="border-radius: 10px; max-height: 120px;"/>
+    
+    <h2>Our <strong>Mission</strong></h2>
+    <p>To produce and distribute quality educational products which offer holistic, innovative contents that promote creativity while inculcating societal values for both individual and national development.
+    </p>
+
+    </div><!-- end section -->
+    </div>
     
     <div class="one_third last">
         

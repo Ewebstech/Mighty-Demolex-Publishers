@@ -2,6 +2,9 @@
 //echo(extension_loaded('openssl')?'SSL loaded':'SSL not loaded')."\n"; 
 // Import PHPMailer classes into the global namespace
 // These must be at the top of your script, not inside a function
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+
 ob_start(); 
 
 if(isset($_POST["send"])){
@@ -12,8 +15,7 @@ $phone = stripslashes($_POST['phone']);
 
 $id = time();
 			
-use PHPMailer\PHPMailer\PHPMailer;
-use PHPMailer\PHPMailer\Exception;
+
 
 require 'PHPMailer/src/Exception.php';
 require 'PHPMailer/src/PHPMailer.php';

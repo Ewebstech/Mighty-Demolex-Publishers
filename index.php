@@ -36,6 +36,16 @@
 
 </div><!-- end punch text -->
 
+<div class="grey_bg">
+
+<div class="container">
+    <div class="content_fullwidth">
+        <h1>How We Started</h1>
+        <p>Mighty Demolex Publishers started as a little seed idea given by divine inspiration to Mr. Bamidele Akinulure Alex in 2008 to meet the need for relevant textbook across public and private schools in Nigeria. And since then, it has contributed in no small measure raising the standard of education within and outside the country. It further bridges the gap between private and public schools by giving equall access to meaningful and qualitative education.
+         </p>
+    </div>
+</div>
+</div>
 
 <div class="container">
 
@@ -371,21 +381,24 @@
 
 	<div class="sitefeatures_03">
     
-    	<h1 style="color: #fff;">Why Publish With or Patronize Us?
-            <small style="color: rgba(255,255,255,0.5);">We're Smart. We're Updated. We're Passionate. </small></h1>
+    	<h1 style="color: #fff;">Our Products
+            <small style="color: rgba(255,255,255,0.5);">We have taken our time to review all our products, consistently updating them with the current curriculum. The books are activity based in line with 21st Century demand for learners and teachers. </small>
+        </h1>
     	
         <div class="clearfix mar_top5"></div>
         
         <div class="left">
         	
-            <h2>Our Inventory</h2>
+          
            
-            <ul>
-                <li>Story Books for Basic Schools</li>
-                <li>Verbal and Quantitative Reasoning</li>
-                <li>Cultural and Creative Arts</li>
-                <li>English and Mathematics Texbooks</li>
-                <li>Weekly Assessment Workbooks</li>
+            <ul style="font-weight: bold">
+                <li>Weekly Assessments Kg1 - JSS 3</li>
+                <li>Quantitative and Verbal Skill Kg 1 - Pry 6</li>
+                <li>Mathematics and English for Nursery& Pry.</li>
+                <li>Religion & National Value Pry 1 - 6</li>
+                <li>Basic Science and Technology Pry 1 -6</li>
+                <li>Cultural and Creative Arts for KG - Pry 6</li>
+                <li>Handwriting Skill for all Kg and Primary</li>
             </ul>
             
          
@@ -395,16 +408,15 @@
         <div class="center"></div>
         
         <div class="right">
-        	
-            <h2>Our Product Benefits</h2>
-           
-			
-            <ul>
-                <li>A termly scheme of work for all subjects at a glance</li>
-                <li>Affordable for parents</li>
-                <li>Profitable to schools</li>
-                <li>Support tools for teachers to prepare lesson notes</li>
-                <li>Activity based workbooks with engaging assignments</li>
+            <ul style="font-weight: bold">
+                <li>COMPLETE NURSERY TEXTBOOKS</li>
+                <li>English and Mathematics</li>
+                <li>Social Studies</li>
+                <li>Computer Studies</li>
+                <li>Physical & Health Education</li>
+                <li>Grammar</li>
+                <li>Composition</li>
+                <li>Pre-Basic Science</li>
             </ul>
             
         </div>
@@ -414,8 +426,19 @@
 
 </div>
 
-<div class="clearfix mar_top5"></div>
+<div class="grey_bg">
+	<div class="container">
+        <div class="content_fullwidth">
+        	<h1>Our Policy</h1>
+            <p>The efficiency of teachers and the pace of learning by pupils/students cannot be accelerated without relevant tools on every subject. In line with the ideal of the Nigerian Educational Research and Development Council (NERDC) under the UBE programme; we present a series of updated textbooks that will meet the needs of teachers and learners across Nigeria and beyond.
+             </p>
+             <p style="background-color: rgb(116, 5, 122); padding: 10px; color: #fff; margin-top: 10px; font-weight: bold;">* We have published over 300 textbooks in various subjects with interactive contents for different levels. *</p>
+             <p style="background-color: rgb(215, 255, 117); padding: 10px; color: #000; margin-top: 10px; font-weight: bold;">* We have over 5000 schools on our supply chain cutting across private and public schools *</p>
+        </div>
+        
+    </div>
 
+</div><!-- end fresh works -->
 
 
 <div class="punch_text_02">

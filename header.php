@@ -96,15 +96,15 @@
             	
                 <ul class="top_clist">
                 <li><a href="#"><i class="icon-envelope"></i> info@mightydemolexpublishers.com</a></li>
-                <li><i class="icon-phone"></i> +234-806-640-6464, +234-806-640-6464</li>
+                <li><i class="icon-phone"></i> 08034394972, 08066996189, 07037306179 </li>
                 </ul>
                 
                 <div class="site_search_home">
                 
                     <form method="get" id="site-searchform" action="#">
                     <div>
-                    <input class="input-text" name="s" id="s" value="" type="text" />
-                    <input id="searchsubmit" value="Search" type="submit" />
+                    <input class="input-text" name="s" id="s" placeholder="Search Site" value="" type="text" />
+                    <input id="searchsubmit" value="Search"  type="submit" />
                     </div>
                     </form>
                     

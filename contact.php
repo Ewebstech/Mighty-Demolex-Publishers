@@ -177,10 +177,13 @@
                 <ul>
                 <li>
                 <strong>Company Name</strong><br />
-                Ilorin, Kwara State, Nigeria.<br />
-                Telephone: +234-803-439-4972<br />
-                Tel 2: +234-806-699-6189<br />
-                E-mail: <a href="mailto:info@mightydemolexpublishers.com">info@mightydemolexpublishers.com</a><br />
+                Mighty Demolex Publishing House,<br>
+                22, Jatto Phase II, Beside C.A.C <br>
+                Oke-Isegun No. 3 Off Kilanko <br>
+                Kaure Area, Ilorin, Kwara State.<br />
+                Tel Numbers: 08034394972, 08066996189, 07037306179<br />
+                E-mail: <a href="mailto:info@mightydemolexpublishers.com">info@mightydemolexpublishers.com</a>, 
+                <a href="mailto:demolexpublishers@gmail.com">demolexpublishers@gmail.com</a><br />
                
                 </li>
             </ul>
@@ -190,8 +193,15 @@
             <iframe class="google-map" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=WA,+United+States&amp;aq=0&amp;oq=WA&amp;sll=47.605288,-122.329296&amp;sspn=0.008999,0.016544&amp;ie=UTF8&amp;hq=&amp;hnear=Washington,+District+of+Columbia&amp;t=m&amp;z=7&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=WA,+United+States&amp;aq=0&amp;oq=WA&amp;sll=47.605288,-122.329296&amp;sspn=0.008999,0.016544&amp;ie=UTF8&amp;hq=&amp;hnear=Washington,+District+of+Columbia&amp;t=m&amp;z=7&amp;iwloc=A">View Larger Map</a></small>
         
     </div>
-            
+
+    
+    
+
 </div>
+
+    <div class="content_fullwidth">
+        <center><img src="img/sales.png" /> </center>
+    </div>
 
 </div><!-- end content area -->
 
